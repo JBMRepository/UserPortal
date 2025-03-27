@@ -1,0 +1,9 @@
+2025-03-26 14:11:49.815 +05:30 [INF] Worker running at: "2025-03-26T14:11:49.7645895+05:30"
+2025-03-26 14:11:55.839 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-26 14:11:55.842 +05:30 [INF] Hosting environment: Development
+2025-03-26 14:11:55.850 +05:30 [INF] Content root path: D:\J&B\InvoiceService\InvoiceService
+2025-03-26 14:12:10.940 +05:30 [ERR] An error occurred: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2025-03-26 18:10:18.607 +05:30 [INF] Worker running at: "2025-03-26T18:10:18.5564250+05:30"
+2025-03-26 18:10:23.040 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-26 18:10:23.058 +05:30 [INF] Hosting environment: Development
+2025-03-26 18:10:23.062 +05:30 [INF] Content root path: D:\J&B\InvoiceService\InvoiceService
